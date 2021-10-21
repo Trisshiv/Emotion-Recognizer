@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(43, 64, 156);
+}
+
+.name_of_objects {
+    color: rgb(72, 255, 0);
+}
+
+#any {
+    color: aqua;
+}
+
+p {
+    color: aqua;
+}
+
+#head {
+    background-color: indigo;
+    color: white;
+}
